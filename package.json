@@ -1,0 +1,15 @@
+{
+  "name": "logo-lib",
+  "version": "1.0.0",
+  "description": "A tool to fetch and store logos from popular websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.2.0"
+  },
+  "type": "module"
+}
