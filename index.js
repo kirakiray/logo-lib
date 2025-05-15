@@ -83,7 +83,23 @@ async function downloadLogo(website, logoUrl) {
     const filePath = path.join(sourceDir, fileName);
     
     await fs.writeFile(filePath, response.data);
-    console.log(`Successfully downloaded logo for ${website}`);
+    
+    // 更新source.json文件
+    const sourceJsonPath = path.join(__dirname, 'source.json');
+    let sourceData = {};
+    try {
+      sourceData = await fs.readJSON(sourceJsonPath);
+    } catch (err) {
+      // 如果文件不存在或无法解析，使用空对象
+    }
+    
+    sourceData[website] = {
+      format: ext.substring(1), // 移除前面的点号
+      lastUpdated: new Date().toISOString()
+    };
+    
+    await fs.writeJSON(sourceJsonPath, sourceData, { spaces: 2 });
+    console.log(`Successfully downloaded logo for ${website} and updated source.json`);
   } catch (error) {
     console.error(`Error downloading logo for ${website}:`, error.message);
   }
