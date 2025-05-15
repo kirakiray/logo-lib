@@ -108,6 +108,30 @@ async function getLogoUrl(website) {
   }
 }
 
+// 检查logo是否已存在于本地缓存
+async function checkLogoCache(website) {
+  const sourceJsonPath = path.join(__dirname, 'source.json');
+  try {
+    // 检查source.json中的记录
+    const sourceData = await fs.readJSON(sourceJsonPath);
+    if (sourceData[website]) {
+      const ext = `.${sourceData[website].format}`;
+      const fileName = `${website}${ext}`;
+      const filePath = path.join(sourceDir, fileName);
+      
+      // 检查文件是否存在
+      const fileExists = await fs.pathExists(filePath);
+      if (fileExists) {
+        console.log(`使用本地缓存的logo: ${website}`);
+        return true;
+      }
+    }
+    return false;
+  } catch (err) {
+    return false;
+  }
+}
+
 // 下载logo的函数
 async function downloadLogo(website, logoUrl) {
   try {
@@ -154,9 +178,13 @@ async function main() {
   
   for (const website of websites) {
     console.log(`正在处理 ${website}...`);
-    const logoUrl = await getLogoUrl(website);
-    if (logoUrl) {
-      await downloadLogo(website, logoUrl);
+    // 检查本地缓存
+    const isCached = await checkLogoCache(website);
+    if (!isCached) {
+      const logoUrl = await getLogoUrl(website);
+      if (logoUrl) {
+        await downloadLogo(website, logoUrl);
+      }
     }
   }
   
