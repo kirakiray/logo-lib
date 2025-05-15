@@ -32,7 +32,50 @@ async function getLogoUrl(website) {
     const response = await axios.get(`https://${website}`);
     const $ = cheerio.load(response.data);
     
-    // 尝试不同的选择器来找到logo
+    // 首先尝试获取manifest.json
+    const manifestLink = $('link[rel="manifest"]').first().attr('href');
+    if (manifestLink) {
+      try {
+        const manifestUrl = manifestLink.startsWith('http') 
+          ? manifestLink 
+          : manifestLink.startsWith('//') 
+            ? `https:${manifestLink}` 
+            : manifestLink.startsWith('/') 
+              ? `https://${website}${manifestLink}` 
+              : `https://${website}/${manifestLink}`;
+        
+        const manifestResponse = await axios.get(manifestUrl);
+        const manifest = manifestResponse.data;
+        
+        if (manifest.icons && Array.isArray(manifest.icons)) {
+          // 按尺寸排序，优先选择最大尺寸的图标
+          const icons = manifest.icons.sort((a, b) => {
+            const sizeA = parseInt((a.sizes || '0x0').split('x')[0]) || 0;
+            const sizeB = parseInt((b.sizes || '0x0').split('x')[0]) || 0;
+            return sizeB - sizeA;
+          });
+          
+          if (icons.length > 0) {
+            let logoUrl = icons[0].src;
+            if (logoUrl) {
+              // 处理相对URL
+              if (logoUrl.startsWith('//')) {
+                logoUrl = `https:${logoUrl}`;
+              } else if (logoUrl.startsWith('/')) {
+                logoUrl = `https://${website}${logoUrl}`;
+              } else if (!logoUrl.startsWith('http')) {
+                logoUrl = `https://${website}/${logoUrl}`;
+              }
+              return logoUrl;
+            }
+          }
+        }
+      } catch (manifestError) {
+        console.log(`无法获取或解析 manifest.json: ${manifestError.message}`);
+      }
+    }
+    
+    // 如果manifest.json不存在或无法获取logo，回退到其他方法
     const selectors = [
       'link[rel="icon"]',
       'link[rel="shortcut icon"]',
