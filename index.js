@@ -8,19 +8,9 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// 常用网站列表
-const websites = [
-  'github.com',
-  'google.com',
-  'facebook.com',
-  'twitter.com',
-  'linkedin.com',
-  'reddit.com',
-  'instagram.com',
-  'youtube.com',
-  'amazon.com',
-  'microsoft.com'
-];
+// 从配置文件读取网站列表
+const websitesConfig = await fs.readJSON(path.join(__dirname, 'websites.json'));
+const websites = websitesConfig.websites;
 
 // 确保source目录存在
 const sourceDir = path.join(__dirname, 'source');
