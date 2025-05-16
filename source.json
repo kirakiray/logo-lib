@@ -4,11 +4,655 @@
     "lastUpdated": "2025-05-16T04:01:35.692Z"
   },
   "youtube.com": {
-    "format": "png",
-    "lastUpdated": "2025-05-16T03:52:57.901Z"
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:10:53.338Z"
   },
   "facebook.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:10:55.898Z"
+  },
+  "twitter.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:10:58.648Z"
+  },
+  "instagram.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:01.693Z"
+  },
+  "wikipedia.org": {
     "format": "png",
-    "lastUpdated": "2025-05-16T03:53:00.957Z"
+    "lastUpdated": "2025-05-16T04:11:04.837Z"
+  },
+  "yahoo.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:09.737Z"
+  },
+  "whatsapp.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:21.739Z"
+  },
+  "netflix.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:26.601Z"
+  },
+  "linkedin.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:30.310Z"
+  },
+  "tiktok.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:36.677Z"
+  },
+  "office.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:11:42.746Z"
+  },
+  "github.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:45.064Z"
+  },
+  "pinterest.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:48.021Z"
+  },
+  "zoom.us": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:50.813Z"
+  },
+  "twitch.tv": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:53.381Z"
+  },
+  "discord.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:55.623Z"
+  },
+  "spotify.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:11:58.364Z"
+  },
+  "apple.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:00.413Z"
+  },
+  "adobe.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:02.807Z"
+  },
+  "wordpress.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:05.718Z"
+  },
+  "tumblr.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:09.849Z"
+  },
+  "paypal.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:15.274Z"
+  },
+  "vimeo.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:17.627Z"
+  },
+  "dropbox.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:21.229Z"
+  },
+  "stackoverflow.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:23.966Z"
+  },
+  "bing.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:26.747Z"
+  },
+  "ebay.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:12:49.440Z"
+  },
+  "imdb.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:12:53.979Z"
+  },
+  "quora.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:12:57.796Z"
+  },
+  "fandom.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:02.248Z"
+  },
+  "roblox.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:05.878Z"
+  },
+  "soundcloud.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:13:07.995Z"
+  },
+  "medium.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:13:11.167Z"
+  },
+  "slack.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:13:14.819Z"
+  },
+  "canva.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:19.607Z"
+  },
+  "nytimes.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:28.980Z"
+  },
+  "cnn.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:33.921Z"
+  },
+  "espn.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:38.477Z"
+  },
+  "foxnews.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:41.586Z"
+  },
+  "dailymail.co.uk": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:13:53.134Z"
+  },
+  "forbes.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:03.351Z"
+  },
+  "bloomberg.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:06.959Z"
+  },
+  "businessinsider.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:11.182Z"
+  },
+  "usatoday.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:14.204Z"
+  },
+  "weather.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:22.939Z"
+  },
+  "tripadvisor.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:14:37.578Z"
+  },
+  "airbnb.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:14:42.913Z"
+  },
+  "zillow.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:15:01.445Z"
+  },
+  "yelp.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:15:07.581Z"
+  },
+  "craigslist.org": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:15:18.423Z"
+  },
+  "shopify.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:15:25.988Z"
+  },
+  "salesforce.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:15:34.897Z"
+  },
+  "box.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:15:39.139Z"
+  },
+  "wix.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:15:46.268Z"
+  },
+  "cloudflare.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:00.984Z"
+  },
+  "digitalocean.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:16:04.013Z"
+  },
+  "heroku.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:07.437Z"
+  },
+  "bitbucket.org": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:10.300Z"
+  },
+  "atlassian.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:13.482Z"
+  },
+  "trello.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:15.636Z"
+  },
+  "asana.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:18.024Z"
+  },
+  "zoom.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:21.458Z"
+  },
+  "duckduckgo.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:23.727Z"
+  },
+  "archive.org": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:16:27.003Z"
+  },
+  "mozilla.org": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:31.015Z"
+  },
+  "opera.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:36.780Z"
+  },
+  "yandex.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:16:42.522Z"
+  },
+  "vk.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:16:47.905Z"
+  },
+  "mail.ru": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:16:53.669Z"
+  },
+  "naver.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:16:57.380Z"
+  },
+  "daum.net": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:01.302Z"
+  },
+  "theverge.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:16.520Z"
+  },
+  "wired.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:19.582Z"
+  },
+  "engadget.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:25.326Z"
+  },
+  "cnet.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:30.512Z"
+  },
+  "techcrunch.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:32.474Z"
+  },
+  "gizmodo.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:37.033Z"
+  },
+  "lifehacker.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:39.383Z"
+  },
+  "huffpost.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:42.649Z"
+  },
+  "buzzfeed.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:45.768Z"
+  },
+  "vice.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:48.444Z"
+  },
+  "pornhub.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:52.704Z"
+  },
+  "xvideos.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:17:59.896Z"
+  },
+  "dribbble.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:02.974Z"
+  },
+  "behance.net": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:05.927Z"
+  },
+  "figma.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:09.201Z"
+  },
+  "sketch.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:12.748Z"
+  },
+  "codesandbox.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:19.121Z"
+  },
+  "jsfiddle.net": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:21.973Z"
+  },
+  "stackblitz.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:24.746Z"
+  },
+  "smashingmagazine.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:18:31.275Z"
+  },
+  "cssdesignawards.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:18:50.712Z"
+  },
+  "uimovement.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:18:56.676Z"
+  },
+  "collectui.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:18:59.851Z"
+  },
+  "unsplash.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:11.116Z"
+  },
+  "freepik.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:19:19.207Z"
+  },
+  "flaticon.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:22.418Z"
+  },
+  "iconfont.cn": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:19:24.799Z"
+  },
+  "fontawesome.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:30.084Z"
+  },
+  "material.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:19:33.461Z"
+  },
+  "uigradients.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:36.545Z"
+  },
+  "coolors.co": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:40.684Z"
+  },
+  "colorhunt.co": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:44.685Z"
+  },
+  "eagle.cool": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:19:49.167Z"
+  },
+  "muz.li": {
+    "format": "jpg",
+    "lastUpdated": "2025-05-16T04:19:51.629Z"
+  },
+  "deviantart.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:19:55.704Z"
+  },
+  "designspiration.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:20:00.275Z"
+  },
+  "inspirationgrid.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:20:05.887Z"
+  },
+  "thefwa.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:20:44.201Z"
+  },
+  "lapa.ninja": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:20:48.566Z"
+  },
+  "webdesign-inspiration.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:20:55.000Z"
+  },
+  "sidebar.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:20:59.350Z"
+  },
+  "webdesignernews.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:03.200Z"
+  },
+  "webdesignerdepot.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:06.305Z"
+  },
+  "css-tricks.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:09.995Z"
+  },
+  "uplabs.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:22.425Z"
+  },
+  "pttrns.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:26.709Z"
+  },
+  "mobbin.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:30.305Z"
+  },
+  "land-book.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:33.260Z"
+  },
+  "onepagelove.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:35.961Z"
+  },
+  "cssnectar.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:21:45.263Z"
+  },
+  "speckyboy.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:03.567Z"
+  },
+  "designmodo.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:07.290Z"
+  },
+  "graphicburger.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:10.642Z"
+  },
+  "ui8.net": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:13.725Z"
+  },
+  "graphicriver.net": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:16.020Z"
+  },
+  "envato.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:18.811Z"
+  },
+  "github.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:24.853Z"
+  },
+  "npmjs.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:27.167Z"
+  },
+  "yarnpkg.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:29.809Z"
+  },
+  "webpack.js.org": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:32.062Z"
+  },
+  "babeljs.io": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:22:34.202Z"
+  },
+  "eslint.org": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:36.088Z"
+  },
+  "prettier.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:38.422Z"
+  },
+  "vitejs.dev": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:41.400Z"
+  },
+  "nextjs.org": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:43.769Z"
+  },
+  "vercel.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:45.983Z"
+  },
+  "netlify.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:49.062Z"
+  },
+  "firebase.google.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:56.694Z"
+  },
+  "supabase.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:22:58.645Z"
+  },
+  "strapi.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:23:00.818Z"
+  },
+  "sanity.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:23:05.982Z"
+  },
+  "contentful.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:23:09.940Z"
+  },
+  "notion.so": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:23:12.892Z"
+  },
+  "miro.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:23:15.507Z"
+  },
+  "whimsical.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:18.888Z"
+  },
+  "lucidchart.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:22.877Z"
+  },
+  "processon.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:31.989Z"
+  },
+  "iconmonstr.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:35.517Z"
+  },
+  "thenounproject.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:40.158Z"
+  },
+  "logaster.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:45.883Z"
+  },
+  "uiverse.io": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:23:59.864Z"
+  },
+  "cssbattle.dev": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:03.207Z"
+  },
+  "codewars.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:09.468Z"
+  },
+  "hackerrank.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:13.934Z"
+  },
+  "geeksforgeeks.org": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:17.805Z"
+  },
+  "w3schools.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:24.424Z"
+  },
+  "tutorialspoint.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:27.733Z"
+  },
+  "juejin.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:29.583Z"
+  },
+  "segmentfault.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:33.440Z"
+  },
+  "csdn.net": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:36.269Z"
+  },
+  "zhihu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:38.800Z"
+  },
+  "bilibili.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T04:24:45.711Z"
   }
 }
