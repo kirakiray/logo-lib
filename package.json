@@ -4,9 +4,10 @@
   "description": "A tool to fetch and store logos from popular websites",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node scripts/index.js"
   },
   "dependencies": {
+    "@iconify/json": "^2.2.338",
     "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
     "fs-extra": "^11.2.0"
