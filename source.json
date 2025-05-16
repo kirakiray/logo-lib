@@ -1,10 +1,14 @@
 {
   "google.com": {
-    "format": "png",
-    "lastUpdated": "2025-05-16T03:45:13.945Z"
+    "format": "svg",
+    "lastUpdated": "2025-05-16T04:01:35.692Z"
   },
   "youtube.com": {
     "format": "png",
-    "lastUpdated": "2025-05-16T03:46:21.362Z"
+    "lastUpdated": "2025-05-16T03:52:57.901Z"
+  },
+  "facebook.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T03:53:00.957Z"
   }
 }
