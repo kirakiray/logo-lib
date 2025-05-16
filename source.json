@@ -651,10 +651,6 @@
     "format": "png",
     "lastUpdated": "2025-05-16T04:24:38.800Z"
   },
-  "bilibili.com": {
-    "format": "png",
-    "lastUpdated": "2025-05-16T04:24:45.711Z"
-  },
   "amazon.com": {
     "format": "svg",
     "lastUpdated": "2025-05-16T05:26:23.601Z"
@@ -682,5 +678,197 @@
   "draw.io": {
     "format": "svg",
     "lastUpdated": "2025-05-16T05:28:42.332Z"
+  },
+  "baidu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:40:39.426Z"
+  },
+  "qq.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:42:46.407Z"
+  },
+  "jd.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:46:51.447Z"
+  },
+  "sina.com.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:46:58.683Z"
+  },
+  "163.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:01.345Z"
+  },
+  "sohu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:03.944Z"
+  },
+  "tmall.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:06.450Z"
+  },
+  "youku.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:14.316Z"
+  },
+  "iqiyi.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:17.420Z"
+  },
+  "alipay.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:19.799Z"
+  },
+  "meituan.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:22.753Z"
+  },
+  "dianping.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:25.954Z"
+  },
+  "58.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:28.746Z"
+  },
+  "ganji.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:31.387Z"
+  },
+  "www.xiaohongshu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:45.042Z"
+  },
+  "tieba.baidu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:47.818Z"
+  },
+  "myzaker.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:53.973Z"
+  },
+  "360.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:56.371Z"
+  },
+  "sogou.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:47:58.654Z"
+  },
+  "autohome.com.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:06.474Z"
+  },
+  "pconline.com.cn": {
+    "format": "jpg",
+    "lastUpdated": "2025-05-16T05:48:08.938Z"
+  },
+  "zol.com.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:12.438Z"
+  },
+  "it168.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:20.449Z"
+  },
+  "pcpop.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:23.284Z"
+  },
+  "anjuke.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:26.038Z"
+  },
+  "fang.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:30.304Z"
+  },
+  "lianjia.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:33.169Z"
+  },
+  "bitauto.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:54.749Z"
+  },
+  "che168.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:48:58.102Z"
+  },
+  "yiche.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:49:04.121Z"
+  },
+  "mgtv.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:49:20.662Z"
+  },
+  "letv.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:49:37.326Z"
+  },
+  "huya.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:49:57.885Z"
+  },
+  "douyu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:50:05.961Z"
+  },
+  "longzhu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:50:08.366Z"
+  },
+  "inke.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:52:18.400Z"
+  },
+  "pearvideo.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:52:24.683Z"
+  },
+  "ixigua.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:52:27.684Z"
+  },
+  "ifeng.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:52:34.891Z"
+  },
+  "cctv.com": {
+    "format": "jpg",
+    "lastUpdated": "2025-05-16T05:53:01.219Z"
+  },
+  "cntv.cn": {
+    "format": "jpg",
+    "lastUpdated": "2025-05-16T05:53:04.043Z"
+  },
+  "huanqiu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:53:05.932Z"
+  },
+  "thepaper.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:53:08.273Z"
+  },
+  "caixin.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:53:11.421Z"
+  },
+  "chinadaily.com.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:53:25.779Z"
+  },
+  "chinanews.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:53:28.622Z"
+  },
+  "xiaohongshu.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T05:56:02.980Z"
+  },
+  "bilibili.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:56:20.988Z"
   }
 }
