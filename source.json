@@ -654,5 +654,25 @@
   "bilibili.com": {
     "format": "png",
     "lastUpdated": "2025-05-16T04:24:45.711Z"
+  },
+  "amazon.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:26:23.601Z"
+  },
+  "bbc.co.hk": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:26:23.605Z"
+  },
+  "bbc.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:26:23.605Z"
+  },
+  "microsoft.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:26:23.605Z"
+  },
+  "reddit.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:26:23.605Z"
   }
 }
