@@ -295,10 +295,6 @@
     "format": "png",
     "lastUpdated": "2025-05-16T04:17:19.582Z"
   },
-  "engadget.com": {
-    "format": "png",
-    "lastUpdated": "2025-05-16T04:17:25.326Z"
-  },
   "cnet.com": {
     "format": "png",
     "lastUpdated": "2025-05-16T04:17:30.512Z"
@@ -910,5 +906,9 @@
   "leetcode.com": {
     "format": "png",
     "lastUpdated": "2025-05-16T06:18:46.716Z"
+  },
+  "engadget.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T06:25:25.113Z"
   }
 }
