@@ -735,10 +735,6 @@
     "format": "png",
     "lastUpdated": "2025-05-16T05:47:31.387Z"
   },
-  "www.xiaohongshu.com": {
-    "format": "png",
-    "lastUpdated": "2025-05-16T05:47:45.042Z"
-  },
   "tieba.baidu.com": {
     "format": "png",
     "lastUpdated": "2025-05-16T05:47:47.818Z"
@@ -898,5 +894,21 @@
   "cmbchina.com": {
     "format": "png",
     "lastUpdated": "2025-05-16T06:10:17.834Z"
+  },
+  "x.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T06:12:52.556Z"
+  },
+  "pexels.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:15:30.399Z"
+  },
+  "codrops.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T06:16:04.515Z"
+  },
+  "leetcode.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:18:46.716Z"
   }
 }
