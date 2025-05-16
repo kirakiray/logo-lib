@@ -674,5 +674,13 @@
   "reddit.com": {
     "format": "svg",
     "lastUpdated": "2025-05-16T05:26:23.605Z"
+  },
+  "bbc.co.uk": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:28:01.028Z"
+  },
+  "draw.io": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T05:28:42.332Z"
   }
 }
