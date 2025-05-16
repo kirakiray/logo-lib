@@ -870,5 +870,33 @@
   "bilibili.com": {
     "format": "svg",
     "lastUpdated": "2025-05-16T05:56:20.988Z"
+  },
+  "douban.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:04:02.667Z"
+  },
+  "taobao.com": {
+    "format": "svg",
+    "lastUpdated": "2025-05-16T06:04:02.674Z"
+  },
+  "gmw.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:06:49.795Z"
+  },
+  "news.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:06:58.895Z"
+  },
+  "stdaily.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:07:01.048Z"
+  },
+  "95598.cn": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:07:11.345Z"
+  },
+  "cmbchina.com": {
+    "format": "png",
+    "lastUpdated": "2025-05-16T06:10:17.834Z"
   }
 }
